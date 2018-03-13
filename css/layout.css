@@ -578,6 +578,26 @@ ul#nav li.current a { color: #F06000; }
 }
 
 /* ------------------------------------------------------------------ */
+/* e. Photography Section
+/* ------------------------------------------------------------------ */
+#photography{
+  background: #fff;
+   padding-top: 90px;
+   padding-bottom: 60px;
+}
+
+#photography p{
+  text-align: center;
+}
+
+#photography .grid-container {
+  display: grid;
+  grid-column-gap: 50px;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+}
+
+/* ------------------------------------------------------------------ */
 /* f. Call To Action Section
 /* ------------------------------------------------------------------ */
 
